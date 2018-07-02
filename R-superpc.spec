@@ -4,7 +4,7 @@
 #
 Name     : R-superpc
 Version  : 1.09
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/superpc_1.09.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/superpc_1.09.tar.gz
 Summary  : Supervised principal components

@@ -4,7 +4,7 @@
 #
 Name     : R-superpc
 Version  : 1.12
-Release  : 42
+Release  : 43
 URL      : https://cran.r-project.org/src/contrib/superpc_1.12.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/superpc_1.12.tar.gz
 Summary  : Supervised Principal Components
